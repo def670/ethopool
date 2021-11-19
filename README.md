@@ -2,6 +2,7 @@
 
 ![Miner's stats page](http://data.ethofs.com/ipfs/QmWabuC2L7NQ1AgyG6KX7p3AXcaZ9pdzVyioNArAqeJ9r4/pool%20front%20chart.jpg)
 ![Miner's stats page](http://data.ethofs.com/ipfs/QmWabuC2L7NQ1AgyG6KX7p3AXcaZ9pdzVyioNArAqeJ9r4/pool%20miner%20chart.jpg)
+![Miner's stats page](https://ipfs.infura.io/ipfs/QmXasPoUjpEaykCmpkdLDFXAybnbjwR6c1kbxyKxX9YcZT)
 
 
 ### Features
